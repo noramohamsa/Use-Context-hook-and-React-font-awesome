@@ -12,7 +12,7 @@ p {
 .search {
   position: absolute;
   left: 870px;
-  bottom: 28px;
+  top: 403px;
 }
 .input {
   position: relative;
