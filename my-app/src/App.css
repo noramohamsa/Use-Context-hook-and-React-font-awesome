@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+p {
+  color: blue;
+  font-size: 40px;
+}
+.Down {
+  padding: 10px;
+}
+.search {
+  position: absolute;
+  left: 870px;
+  bottom: 28px;
+}
+.input {
+  position: relative;
+  width: 300px;
+  height: 30px;
+}
